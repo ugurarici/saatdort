@@ -16,44 +16,44 @@ class DatabaseSeeder extends Seeder
     		array(
     			'status' => 'Saat dört 🕓, 
             yoksun.',
-    			'publish_at' => '2017-03-04 16:00:00'
+    			'publish_at' => '2017-03-05 16:00:00'
     			),
     		array(
     			'status' => 'Saat beş 🕔, 
             yok.',
-    			'publish_at' => '2017-03-04 17:00:00'
+    			'publish_at' => '2017-03-05 17:00:00'
     			),
     		array(
     			'status' => 'Altı 🕕',
-    			'publish_at' => '2017-03-04 18:00:00'
+    			'publish_at' => '2017-03-05 18:00:00'
     			),
     		array(
     			'status' => 'yedi 🕖',
-    			'publish_at' => '2017-03-04 19:00:00'
+    			'publish_at' => '2017-03-05 19:00:00'
     			),
     		array(
     			'status' => 'ertesi gün 🌄',
-    			'publish_at' => '2017-03-05 10:00:00'
+    			'publish_at' => '2017-03-06 10:00:00'
     			),
     		array(
     			'status' => 'daha ertesi ⛅️',
-    			'publish_at' => '2017-03-06 13:07:00'
+    			'publish_at' => '2017-03-07 13:07:00'
     			),
     		array(
     			'status' => 've belki 
              kim bilir...',
-    			'publish_at' => '2017-03-06 18:52:00'
+    			'publish_at' => '2017-03-07 18:52:00'
     			),
     		array(
     			'status' => 'Nâzım Hikmet’in kaleminden çıkan bu şiirin bir parçasını Zülfü Livaneli’den dinleyebilirsiniz. https://youtu.be/M3tIOTbGGYY 🎵',
-    			'publish_at' => '2017-03-06 19:00:00'
+    			'publish_at' => '2017-03-07 19:00:00'
     			),
     		array(
     			'status' => 'Belki tamamını okursunuz bile:
 
 ÇANKIRI HAPİSANESİNDEN MEKTUPLAR 
 http://siir.gen.tr/siir/n/nazim_hikmet/cankiri_hapisanesinden_mektuplar.htm ✉️',
-    			'publish_at' => '2017-03-06 20:00:00'
+    			'publish_at' => '2017-03-07 20:00:00'
     			),
     		);
 
