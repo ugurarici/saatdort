@@ -35,7 +35,7 @@ class Tweet extends Model
 				//	başarılıysa güncelleyelim
 				if(isset($publish->id)){
 					$tweet->is_published = true;
-					$tweet->published_tweet_id = $publish->id;
+					$tweet->published_tweet_id = $publish->id_str;
 					$tweet->save();
 				}
 			}
